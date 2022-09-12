@@ -21,7 +21,7 @@ Espíritu empresarial · Responsabilidad profesional · Profesionalidad · Comer
 jun. 2006 - abr. 2013  
 Programador y Analista Programador. Diseños técnicos. Análisis funcionales.  
 Diversos clientes y proyectos, desde administraciones públicas (Generalitat Catalunya, Ajuntament de Barcelona...) a empresas privadas (Gas Natural, UEM...).  
-Tecnologías como Java, Spring, Hibernate, JSP, Javascript, Struts, Flex, SQL, JUnit...
+Java · Spring · Hibernate · JSP · JSF · CSS · Javascript · Struts · Flex · SQL · JUnit...
 
 * **Propietario - segresoft.com**  
 2005 - 2012  
