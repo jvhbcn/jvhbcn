@@ -1,9 +1,11 @@
 ### CV de Julián Vázquez
 
 [Experiencia profesional](#experiencia) | [Estudios](#estudios) | [Datos de Contacto](#contacto)
- 
-  
-  
+<div align="right">
+:arrow_double_down: <a href="https://github.com/jvhbcn/jvhbcn/blob/main/CV_JulianVazquezHernandez.pdf" target="_blank">Descargar en PDF</a> |
+:arrow_double_down: <a href="https://github.com/jvhbcn/jvhbcn/blob/main/CV_JulianVazquez.pdf" target="_blank">Download english version PDF</a>
+</div>
+
 <a name="experiencia"></a>
 **Experiencia profesional**
 
@@ -21,7 +23,7 @@ Espíritu empresarial · Responsabilidad profesional · Profesionalidad · Comer
 jun. 2006 - abr. 2013  
 Programador y Analista Programador. Diseños técnicos. Análisis funcionales.  
 Diversos clientes y proyectos, desde administraciones públicas (Generalitat Catalunya, Ajuntament de Barcelona...) a empresas privadas (Gas Natural, UEM...).  
-Java · Spring · Hibernate · JSP · JSF · CSS · Javascript · Struts · Flex · SQL · JUnit...
+Java · Spring · Hibernate · Ibatis · JSP · JSF · CSS · Javascript · Struts · Flex · SQL · Maven · SVN · JUnit...
 
 * **Propietario - segresoft.com**  
 2005 - 2012  
