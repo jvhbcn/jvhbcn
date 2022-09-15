@@ -2,7 +2,7 @@
 
 [Experiencia profesional](#experiencia) | [Estudios](#estudios) | [Datos de Contacto](#contacto)
 <div align="right">
-:arrow_double_down: <a href="/jvhbcn/jvhbcn/blob/main/CV_JulianVazquezHernandez.pdf" target="_blank">Ver PDF</a> |
+:arrow_double_down: <a href="https://github.com/jvhbcn/jvhbcn/blob/main/CV_JulianVazquezHernandez.pdf" target="_blank">Ver PDF</a> |
 :arrow_double_down: <a href="https://github.com/jvhbcn/jvhbcn/blob/main/CV_JulianVazquez.pdf" target="_blank">English PDF version</a>
 </div>
 
