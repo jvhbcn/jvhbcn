@@ -9,13 +9,18 @@
 <a name="experiencia"></a>
 **Experiencia profesional**
 
+* **Programador Java & Angular - Hiopos Solutions (ICG Group)**  
+Octubre 2022 - actualidad  
+Programación y análisis para la implementación de soluciones propias (ecommerce, reserva online, etc).
+Java · Spring · Angular · HTML · SCSS · Maven · MySQL
+
 * **Propietario - demipueblo.es**  
-junio 2012 - actualidad  
+junio 2012 - enero 2023  
 Venta online de alimentos de calidad/gourmet.  
 PrestaShop · Servicio de atención al cliente · SEO · Comercio electrónico · PHP · MySQL
 
 * **Propietario - origenlleida.com**  
-mayo 2014 - actualidad  
+mayo 2014 - enero 2023  
 Comercio físico de alimentación de calidad/gourmet.  
 Espíritu empresarial · Responsabilidad profesional · Profesionalidad · Comercio · Trato con clientes  
 
